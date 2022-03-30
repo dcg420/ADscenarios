@@ -24,9 +24,9 @@
   https://raw.githubusercontent.com/dcg420/ADscenarios/main/workshop/top10.json
   
 **Red Canary Report Top 10**\
-  T1059.001
+  T1059.001\
   T1059.003\
-  T1218.005\ 
+  T1218.005\
   T1218.011\
   T1543.003\
   T1053.005\
