@@ -1,31 +1,38 @@
 **LAB Setup Info:**
 
-**Att&ck:**
+**Att&ck:**\
   https://attack.mitre.org/
   
-**Usernames CheckYour Badge**
+**Usernames - CheckYour Badge**
 
 **Tools:**
-**Att&ck navigator**
-  https://mitre-attack.github.io/attack-navigator/
-**Atomic Red Team**
+
+**Att&ck navigator**\
+  https://mitre-attack.github.io/attack-navigator
+
+**Atomic Red Team**\
   https://github.com/redcanaryco/atomic-red-team
-**VECTR**
+
+**VECTR**\
   https://docs.vectr.io/
-**CALDERA**
+
+**CALDERA**\
   https://caldera.readthedocs.io/en/latest/
-**Repo:**
+
+**Repo:**\
   https://github.com/dcg420/ADscenarios
   https://raw.githubusercontent.com/dcg420/ADscenarios/main/workshop/top10.json
   
-**Red Canary Report Top 10**
-  T1059.001 + 003
-  T1218.005 + 011
-  T1543.003
-  T1053.005
-  T1003.001
-  T1055
-  T1027
-  T1105
-  T1569.002
+**Red Canary Report Top 10**\
+  T1059.001
+  T1059.003\
+  T1218.005\ 
+  T1218.011\
+  T1543.003\
+  T1053.005\
+  T1003.001\
+  T1055\
+  T1027\
+  T1105\
+  T1569.002\
   T1036.003
